@@ -32,7 +32,6 @@ workflows
 )
 
 .local/
-instrucciones.md
 agents.md
 tests
 CMakeLists.txt (tests y otros)
